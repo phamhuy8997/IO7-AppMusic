@@ -1,0 +1,385 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		112FB3CD1EC0DCB100C11E70 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 112FB3CC1EC0DCB100C11E70 /* 1.jpg */; };
+		114300401EC04D7200E30F77 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1143003F1EC04D7200E30F77 /* AppDelegate.swift */; };
+		114300421EC04D7200E30F77 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114300411EC04D7200E30F77 /* ViewController.swift */; };
+		114300451EC04D7200E30F77 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 114300431EC04D7200E30F77 /* Main.storyboard */; };
+		114300471EC04D7200E30F77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 114300461EC04D7200E30F77 /* Assets.xcassets */; };
+		1143004A1EC04D7200E30F77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 114300481EC04D7200E30F77 /* LaunchScreen.storyboard */; };
+		1143005A1EC04FB000E30F77 /* Anh-Nang-Cua-Anh-Cho-Em-Den-Ngay-Mai-OST-Duc-Phuc.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 114300521EC04FB000E30F77 /* Anh-Nang-Cua-Anh-Cho-Em-Den-Ngay-Mai-OST-Duc-Phuc.mp3 */; };
+		1143005B1EC04FB000E30F77 /* Ngay-Mai-Se-Khac-Le-Hieu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 114300531EC04FB000E30F77 /* Ngay-Mai-Se-Khac-Le-Hieu.mp3 */; };
+		1143005C1EC04FB000E30F77 /* Noi-Nay-Co-Anh-Son-Tung-M-TP.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 114300541EC04FB000E30F77 /* Noi-Nay-Co-Anh-Son-Tung-M-TP.mp3 */; };
+		1143005D1EC04FB000E30F77 /* Yeu-La-Tha-Thu-Em-Chua-18-OST-OnlyC.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 114300551EC04FB000E30F77 /* Yeu-La-Tha-Thu-Em-Chua-18-OST-OnlyC.mp3 */; };
+		1143005E1EC04FB000E30F77 /* Anh-Se-Ve-Som-Thoi-Isaac.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 114300561EC04FB000E30F77 /* Anh-Se-Ve-Som-Thoi-Isaac.mp3 */; };
+		1143005F1EC04FB000E30F77 /* Lac-Troi-Son-Tung-M-TP.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 114300571EC04FB000E30F77 /* Lac-Troi-Son-Tung-M-TP.mp3 */; };
+		114300601EC04FB000E30F77 /* Yeu-5-Rhymastic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 114300581EC04FB000E30F77 /* Yeu-5-Rhymastic.mp3 */; };
+		114300611EC04FB000E30F77 /* Chi-Bang-Cai-Gat-Dau-Lam-Chan-Kiet.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 114300591EC04FB000E30F77 /* Chi-Bang-Cai-Gat-Dau-Lam-Chan-Kiet.mp3 */; };
+		114300671EC062B600E30F77 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 114300621EC062B600E30F77 /* play.png */; };
+		114300681EC062B600E30F77 /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = 114300631EC062B600E30F77 /* next.png */; };
+		114300691EC062B600E30F77 /* next1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 114300641EC062B600E30F77 /* next1.jpeg */; };
+		1143006A1EC062B600E30F77 /* pause.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 114300651EC062B600E30F77 /* pause.jpeg */; };
+		1143006B1EC062B600E30F77 /* prev.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 114300661EC062B600E30F77 /* prev.jpeg */; };
+		11B6CBF01EC371150095A67A /* theme.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11B6CBEF1EC371150095A67A /* theme.jpg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		112FB3CC1EC0DCB100C11E70 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		1143003C1EC04D7200E30F77 /* App4-Homework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "App4-Homework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1143003F1EC04D7200E30F77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		114300411EC04D7200E30F77 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		114300441EC04D7200E30F77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		114300461EC04D7200E30F77 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		114300491EC04D7200E30F77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		1143004B1EC04D7200E30F77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		114300521EC04FB000E30F77 /* Anh-Nang-Cua-Anh-Cho-Em-Den-Ngay-Mai-OST-Duc-Phuc.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Anh-Nang-Cua-Anh-Cho-Em-Den-Ngay-Mai-OST-Duc-Phuc.mp3"; sourceTree = "<group>"; };
+		114300531EC04FB000E30F77 /* Ngay-Mai-Se-Khac-Le-Hieu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ngay-Mai-Se-Khac-Le-Hieu.mp3"; sourceTree = "<group>"; };
+		114300541EC04FB000E30F77 /* Noi-Nay-Co-Anh-Son-Tung-M-TP.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Noi-Nay-Co-Anh-Son-Tung-M-TP.mp3"; sourceTree = "<group>"; };
+		114300551EC04FB000E30F77 /* Yeu-La-Tha-Thu-Em-Chua-18-OST-OnlyC.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Yeu-La-Tha-Thu-Em-Chua-18-OST-OnlyC.mp3"; sourceTree = "<group>"; };
+		114300561EC04FB000E30F77 /* Anh-Se-Ve-Som-Thoi-Isaac.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Anh-Se-Ve-Som-Thoi-Isaac.mp3"; sourceTree = "<group>"; };
+		114300571EC04FB000E30F77 /* Lac-Troi-Son-Tung-M-TP.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lac-Troi-Son-Tung-M-TP.mp3"; sourceTree = "<group>"; };
+		114300581EC04FB000E30F77 /* Yeu-5-Rhymastic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Yeu-5-Rhymastic.mp3"; sourceTree = "<group>"; };
+		114300591EC04FB000E30F77 /* Chi-Bang-Cai-Gat-Dau-Lam-Chan-Kiet.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Chi-Bang-Cai-Gat-Dau-Lam-Chan-Kiet.mp3"; sourceTree = "<group>"; };
+		114300621EC062B600E30F77 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		114300631EC062B600E30F77 /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		114300641EC062B600E30F77 /* next1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = next1.jpeg; sourceTree = "<group>"; };
+		114300651EC062B600E30F77 /* pause.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pause.jpeg; sourceTree = "<group>"; };
+		114300661EC062B600E30F77 /* prev.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = prev.jpeg; sourceTree = "<group>"; };
+		11B6CBEF1EC371150095A67A /* theme.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = theme.jpg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		114300391EC04D7200E30F77 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		114300331EC04D7200E30F77 = {
+			isa = PBXGroup;
+			children = (
+				1143003E1EC04D7200E30F77 /* App4-Homework */,
+				1143003D1EC04D7200E30F77 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1143003D1EC04D7200E30F77 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1143003C1EC04D7200E30F77 /* App4-Homework.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1143003E1EC04D7200E30F77 /* App4-Homework */ = {
+			isa = PBXGroup;
+			children = (
+				114300511EC04F3D00E30F77 /* Music */,
+				1143003F1EC04D7200E30F77 /* AppDelegate.swift */,
+				114300411EC04D7200E30F77 /* ViewController.swift */,
+				114300461EC04D7200E30F77 /* Assets.xcassets */,
+				114300431EC04D7200E30F77 /* Main.storyboard */,
+				114300481EC04D7200E30F77 /* LaunchScreen.storyboard */,
+				1143004B1EC04D7200E30F77 /* Info.plist */,
+			);
+			path = "App4-Homework";
+			sourceTree = "<group>";
+		};
+		114300511EC04F3D00E30F77 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				112FB3CC1EC0DCB100C11E70 /* 1.jpg */,
+				114300621EC062B600E30F77 /* play.png */,
+				114300631EC062B600E30F77 /* next.png */,
+				11B6CBEF1EC371150095A67A /* theme.jpg */,
+				114300641EC062B600E30F77 /* next1.jpeg */,
+				114300651EC062B600E30F77 /* pause.jpeg */,
+				114300661EC062B600E30F77 /* prev.jpeg */,
+				114300521EC04FB000E30F77 /* Anh-Nang-Cua-Anh-Cho-Em-Den-Ngay-Mai-OST-Duc-Phuc.mp3 */,
+				114300531EC04FB000E30F77 /* Ngay-Mai-Se-Khac-Le-Hieu.mp3 */,
+				114300541EC04FB000E30F77 /* Noi-Nay-Co-Anh-Son-Tung-M-TP.mp3 */,
+				114300551EC04FB000E30F77 /* Yeu-La-Tha-Thu-Em-Chua-18-OST-OnlyC.mp3 */,
+				114300561EC04FB000E30F77 /* Anh-Se-Ve-Som-Thoi-Isaac.mp3 */,
+				114300571EC04FB000E30F77 /* Lac-Troi-Son-Tung-M-TP.mp3 */,
+				114300581EC04FB000E30F77 /* Yeu-5-Rhymastic.mp3 */,
+				114300591EC04FB000E30F77 /* Chi-Bang-Cai-Gat-Dau-Lam-Chan-Kiet.mp3 */,
+			);
+			name = Music;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1143003B1EC04D7200E30F77 /* App4-Homework */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1143004E1EC04D7200E30F77 /* Build configuration list for PBXNativeTarget "App4-Homework" */;
+			buildPhases = (
+				114300381EC04D7200E30F77 /* Sources */,
+				114300391EC04D7200E30F77 /* Frameworks */,
+				1143003A1EC04D7200E30F77 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "App4-Homework";
+			productName = "App4-Homework";
+			productReference = 1143003C1EC04D7200E30F77 /* App4-Homework.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		114300341EC04D7200E30F77 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Huy Pham";
+				TargetAttributes = {
+					1143003B1EC04D7200E30F77 = {
+						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = ZTN88XGAW4;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
+					};
+				};
+			};
+			buildConfigurationList = 114300371EC04D7200E30F77 /* Build configuration list for PBXProject "App4-Homework" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 114300331EC04D7200E30F77;
+			productRefGroup = 1143003D1EC04D7200E30F77 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1143003B1EC04D7200E30F77 /* App4-Homework */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1143003A1EC04D7200E30F77 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1143006A1EC062B600E30F77 /* pause.jpeg in Resources */,
+				114300691EC062B600E30F77 /* next1.jpeg in Resources */,
+				1143005A1EC04FB000E30F77 /* Anh-Nang-Cua-Anh-Cho-Em-Den-Ngay-Mai-OST-Duc-Phuc.mp3 in Resources */,
+				114300601EC04FB000E30F77 /* Yeu-5-Rhymastic.mp3 in Resources */,
+				112FB3CD1EC0DCB100C11E70 /* 1.jpg in Resources */,
+				1143005E1EC04FB000E30F77 /* Anh-Se-Ve-Som-Thoi-Isaac.mp3 in Resources */,
+				1143004A1EC04D7200E30F77 /* LaunchScreen.storyboard in Resources */,
+				114300471EC04D7200E30F77 /* Assets.xcassets in Resources */,
+				114300671EC062B600E30F77 /* play.png in Resources */,
+				114300611EC04FB000E30F77 /* Chi-Bang-Cai-Gat-Dau-Lam-Chan-Kiet.mp3 in Resources */,
+				1143005D1EC04FB000E30F77 /* Yeu-La-Tha-Thu-Em-Chua-18-OST-OnlyC.mp3 in Resources */,
+				1143006B1EC062B600E30F77 /* prev.jpeg in Resources */,
+				114300451EC04D7200E30F77 /* Main.storyboard in Resources */,
+				1143005F1EC04FB000E30F77 /* Lac-Troi-Son-Tung-M-TP.mp3 in Resources */,
+				1143005C1EC04FB000E30F77 /* Noi-Nay-Co-Anh-Son-Tung-M-TP.mp3 in Resources */,
+				1143005B1EC04FB000E30F77 /* Ngay-Mai-Se-Khac-Le-Hieu.mp3 in Resources */,
+				114300681EC062B600E30F77 /* next.png in Resources */,
+				11B6CBF01EC371150095A67A /* theme.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		114300381EC04D7200E30F77 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				114300421EC04D7200E30F77 /* ViewController.swift in Sources */,
+				114300401EC04D7200E30F77 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		114300431EC04D7200E30F77 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				114300441EC04D7200E30F77 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		114300481EC04D7200E30F77 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				114300491EC04D7200E30F77 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1143004C1EC04D7200E30F77 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1143004D1EC04D7200E30F77 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1143004F1EC04D7200E30F77 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZTN88XGAW4;
+				INFOPLIST_FILE = "App4-Homework/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Huy-Pham.App4-Homework";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		114300501EC04D7200E30F77 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = ZTN88XGAW4;
+				INFOPLIST_FILE = "App4-Homework/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Huy-Pham.App4-Homework";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		114300371EC04D7200E30F77 /* Build configuration list for PBXProject "App4-Homework" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1143004C1EC04D7200E30F77 /* Debug */,
+				1143004D1EC04D7200E30F77 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1143004E1EC04D7200E30F77 /* Build configuration list for PBXNativeTarget "App4-Homework" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1143004F1EC04D7200E30F77 /* Debug */,
+				114300501EC04D7200E30F77 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 114300341EC04D7200E30F77 /* Project object */;
+}
